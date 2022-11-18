@@ -1,0 +1,126 @@
+:host {
+  display: contents;
+}
+.desktop67165 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.image {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.image1 {
+  top: 0px;
+  left: 725px;
+  width: 715px;
+  height: 1024px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(29, 40, 62, 1);
+}
+.svg {
+  top: 806px;
+  left: 660px;
+  width: 145;
+  height: 198;
+  position: absolute;
+}
+.svg1 {
+  top: 831px;
+  left: 660px;
+  width: 145;
+  height: 174;
+  position: absolute;
+}
+
+.svg1:focus {
+  background-color: red;
+}
+.image2 {
+  top: 317px;
+  left: 203px;
+  width: 367px;
+  height: 396px;
+  display: none;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 30px;
+  background-color: rgba(196, 196, 196, 1);
+}
+.svg2 {
+  top: -120px;
+  right: -10px;
+  width: 483;
+  height: 566;
+  position: absolute;
+}
+.svg3 {
+  top: -44px;
+  right: 2px;
+  width: 483;
+  height: 566;
+  position: absolute;
+}
+.text {
+  top: 694px;
+  left: 206px;
+  color: rgba(255, 255, 255, 1);
+  width: 336px;
+  height: 73px;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text1 {
+  top: 83px;
+  color: rgba(255, 255, 255, 1);
+  right: 92px;
+  width: 550px;
+  height: 93px;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+}
+.svg4 {
+  top: 352px;
+  left: 241px;
+  width: 329;
+  height: 319;
+  position: absolute;
+}
+.svg5 {
+  top: 37px;
+  left: 21px;
+  width: 82;
+  height: 78;
+  position: absolute;
+}
